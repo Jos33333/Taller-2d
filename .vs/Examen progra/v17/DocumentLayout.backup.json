@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{78E46A5A-6AEF-49F4-A456-2E5BCBF11ADB}|Examen progra.csproj|d:\\proyectos\\acad\u00E9mico\\visual studio\\taller progra\\examen progra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E46A5A-6AEF-49F4-A456-2E5BCBF11ADB}|Examen progra.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E46A5A-6AEF-49F4-A456-2E5BCBF11ADB}|Examen progra.csproj|d:\\proyectos\\acad\u00E9mico\\visual studio\\taller progra\\examen progra\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E46A5A-6AEF-49F4-A456-2E5BCBF11ADB}|Examen progra.csproj|solutionrelative:enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E46A5A-6AEF-49F4-A456-2E5BCBF11ADB}|Examen progra.csproj|d:\\proyectos\\acad\u00E9mico\\visual studio\\taller progra\\examen progra\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E46A5A-6AEF-49F4-A456-2E5BCBF11ADB}|Examen progra.csproj|solutionrelative:personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Acad\u00E9mico\\Visual Studio\\Taller progra\\Examen progra\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Enemigo.cs",
+              "ToolTip": "D:\\Proyectos\\Acad\u00E9mico\\Visual Studio\\Taller progra\\Examen progra\\Enemigo.cs",
+              "RelativeToolTip": "Enemigo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:20:16.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Acad\u00E9mico\\Visual Studio\\Taller progra\\Examen progra\\Personaje.cs",
+              "RelativeDocumentMoniker": "Personaje.cs",
+              "ToolTip": "D:\\Proyectos\\Acad\u00E9mico\\Visual Studio\\Taller progra\\Examen progra\\Personaje.cs",
+              "RelativeToolTip": "Personaje.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvzEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:20:06.413Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Proyectos\\Acad\u00E9mico\\Visual Studio\\Taller progra\\Examen progra\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAgwNEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T18:26:23.11Z",
               "EditorCaption": ""
